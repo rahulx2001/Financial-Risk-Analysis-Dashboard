@@ -11,7 +11,7 @@
 
 <br>
 
-[📊 View Dashboard](#-dashboard-pages) • [💡 Key Insights](#-insights-uncovered) • [🚀 Get Started](#-how-to-use)
+[📊 View Dashboard](#-dashboard-pages) • [💡 Key Insights](#-insights-uncovered) • [📋 Case Study](CASE_STUDY.md) • [🚀 Get Started](#-how-to-use)
 
 </div>
 
