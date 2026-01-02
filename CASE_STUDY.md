@@ -550,7 +550,7 @@ Default % of Total =
 
 <div align="center">
 
-## 📫 Let's Connect
+## 📫 Let's Connect on
 
 Interested in discussing this project or data analysis opportunities?
 
